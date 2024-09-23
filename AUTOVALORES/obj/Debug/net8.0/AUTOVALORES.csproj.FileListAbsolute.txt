@@ -1,0 +1,14 @@
+C:\TI\C#\Brito\AUTOVALORES\bin\Debug\net8.0\AUTOVALORES.exe
+C:\TI\C#\Brito\AUTOVALORES\bin\Debug\net8.0\AUTOVALORES.deps.json
+C:\TI\C#\Brito\AUTOVALORES\bin\Debug\net8.0\AUTOVALORES.runtimeconfig.json
+C:\TI\C#\Brito\AUTOVALORES\bin\Debug\net8.0\AUTOVALORES.dll
+C:\TI\C#\Brito\AUTOVALORES\bin\Debug\net8.0\AUTOVALORES.pdb
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\AUTOVALORES.GeneratedMSBuildEditorConfig.editorconfig
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\AUTOVALORES.AssemblyInfoInputs.cache
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\AUTOVALORES.AssemblyInfo.cs
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\AUTOVALORES.csproj.CoreCompileInputs.cache
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\AUTOVALORES.dll
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\refint\AUTOVALORES.dll
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\AUTOVALORES.pdb
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\AUTOVALORES.genruntimeconfig.cache
+C:\TI\C#\Brito\AUTOVALORES\obj\Debug\net8.0\ref\AUTOVALORES.dll
